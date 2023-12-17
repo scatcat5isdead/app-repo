@@ -1,4 +1,5 @@
-{
+[
+  {
     "name": "Hulu (Preview)",
     "icon": "https://raw.githubusercontent.com/TerbiumOS/app-repo/main/assets/com.tb.youtube/icon.png",
     "description": "Watch TV anytime, anywhere.",
@@ -22,4 +23,5 @@
         "resizable": true,
         "app_id": "com.tb.hulu"
     }
-}
+  }
+]
